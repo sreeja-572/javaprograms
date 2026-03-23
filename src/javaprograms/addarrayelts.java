@@ -20,8 +20,9 @@ public class addarrayelts {
 		}
 		System.out.println(s);
 		
+		System.out.println("hhelo sreeja");
 		
-		
+		System.out.println("hello i m prathyuha");
 		
 		
 		
