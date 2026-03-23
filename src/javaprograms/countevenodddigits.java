@@ -32,6 +32,10 @@ public class countevenodddigits {
 		System.out.println(odd_count);
 		
 		
+		System.out.println("even number");
+		System.out.println("odd number");
+		
+		
 	}
 
 
