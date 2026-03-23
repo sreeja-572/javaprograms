@@ -27,6 +27,8 @@ public class addarrayelts {
 		System.out.println("veeramani");
 		System.out.println("laxmi narayana");
 		
+		System.out.println("rajamani");
+		
 		
 		
 		
